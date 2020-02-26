@@ -19,7 +19,7 @@ keep a record of your basic entries for future reference and or progress
 allow you to search a data base of food of your choice and display the calories of the food
 
 ### Technologies
-java
+java 
 java script
 my sql
 
